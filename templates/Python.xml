@@ -1,0 +1,17 @@
+<templateSet group="Python">
+  <template name="forin" value="for $PARAMETER1$ in $PARAMETER2$:&#10;  print($PARAMETER1$)" description="for in loop" toReformat="true" toShortenFQNames="true">
+    <variable name="PARAMETER1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETER2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="forinr" value="for $PARAMETER1$ in range($START$, $END$, $INCREMENT$):&#10;  print($PARAMETER1$)" description="for in with range" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAMETER1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="START" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="INCREMENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
