@@ -1,4 +1,7 @@
 <application>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="SHOW_METHOD_SEPARATORS" value="true" />
+  </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="14" />
     <option name="FONT_FAMILY" value="Fira Code Medium" />
@@ -18,5 +21,8 @@
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="IS_TRAILING_WHITESPACES_SHOWN" value="false" />
     <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
   </component>
 </application>
