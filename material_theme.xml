@@ -7,7 +7,6 @@
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="overrideAccentColor" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="treeFontSizeEnabled" value="true" />
     <option name="indicatorStyle" value="Dot" />
@@ -16,6 +15,6 @@
     <option name="accentColor" value="ff9800" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="-797a7ad0:16d30b4700d:-8000" />
-    <option name="version" value="4.5.2" />
+    <option name="version" value="4.11.2" />
   </component>
 </application>
