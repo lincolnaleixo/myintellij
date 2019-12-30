@@ -12,4 +12,6 @@
   <action id="QuickList.$Separator$" />
   <action id="RemoteHostView.SetPermissions" />
   <action id="WebDeployment.Configuration" />
+  <action id="QuickList.$Separator$" />
+  <action id="QuickList.$Separator$" />
 </list>
