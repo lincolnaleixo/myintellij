@@ -30,9 +30,6 @@
   <action id="GotoNextError" />
   <action id="GotoPreviousError" />
   <action id="Graph.ApplyCurrentLayout" />
-  <action id="Javascript.Linters.EsLint.Fix">
-    <keyboard-shortcut first-keystroke="meta s" />
-  </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
