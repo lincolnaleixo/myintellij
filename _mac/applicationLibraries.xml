@@ -16,6 +16,10 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/moment-timezone" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/pouchdb" type="javaScript">
       <CLASSES />
       <SOURCES />
