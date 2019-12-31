@@ -16,7 +16,7 @@
       <option name="TS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="try" value="try {&#10;    $END$&#10;} catch (error) {&#10;    logger.error(`Error on getProducts: ${error}`);&#10;}" description="" toReformat="false" toShortenFQNames="true">
+  <template name="try" value="try {&#10;    $END$&#10;} catch (error) {&#10;    console.log(error);&#10;}" description="try cath template" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
